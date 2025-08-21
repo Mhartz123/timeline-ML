@@ -1,0 +1,166 @@
+{
+  "title": {
+    "media": {
+      "url": "https://innovationcloud.com/pub/blog/15843453598798_innovation-cloud---innovative-uses-for-machine-learning.jpg",
+      "caption": "",
+      "credit": "supplychainbeyond/<a href='https://supplychainbeyond.com/wp-content/uploads/2017/09/what-is-machine-learning.jpg'>what-is-machine-learning</a>"
+    },
+    "text": {
+      "headline": "Important Innovations of the Machine Learning",
+      "text": "<p>A timeline of important innovations that contributed to the growth and advancements of machine learning</p>"
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "background": "#0f9bdm1",
+        "url": "https://cdn.botpenguin.com/assets/website/Turing_Test_bf8f90a287.png",
+        "caption": "An Illustration of how the Turing test worked",
+        "credit": "<a href='https://cdn.botpenguin.com/assets/website/Turing_Test_bf8f90a287.png'>Bot Penguin's Illustration</a><br/>"
+      },
+      "start_date": {
+        "year": "1950"
+      },
+      "text": {
+        "headline": "The Turing Test",
+        "text": "<p>A revolutionary test Invented by Alan Turing which raised an important question <q>Do machines think?<q> setting up the foundations for machine learning as a concept</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://www.ibm.com/adobe/dynamicmedia/deliver/dm-aid--c57d1ab1-6757-412a-8139-d606a0da6074/5322-as-playingcheckers.jpg?preferwebp=true&width=320g",
+        "caption": "A photo showing Samuel Arthur playing with his self-learning machine",
+        "credit": "<a href='https://www.ibm.com/adobe/dynamicmedia/deliver/dm-aid--c57d1ab1-6757-412a-8139-d606a0da6074/5322-as-playingcheckers.jpg?preferwebp=true&width=320g'>Credit</a><br/>"
+      },
+      "start_date": {
+        "year": "1952"
+      },
+      "text": {
+        "headline": "Samuel’s Checkers‐Playing Program",
+        "text": "<p>Arthur Samuel developed one of the first self-learning programs—a checkers game that improved its performance through experience. It Marked the first practical demonstration that machines could learn from data, helping coin the term “machine learning.”</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://lh6.googleusercontent.com/fs9F7Oyzw8jfn7yYRS-s86XF0u086KwEvW25012xc9yLGx0iKmY2oYs19wtEUrvCSPJeLfMDBrdk_7wWkhLmL8_EwBMeSp6Sb-vt4BvA1EqN2z2QjDId3d8at3Io_y-UrOzqp9Km",
+        "caption": " ",
+        "credit": "<a href='https://lh6.googleusercontent.com/fs9F7Oyzw8jfn7yYRS-s86XF0u086KwEvW25012xc9yLGx0iKmY2oYs19wtEUrvCSPJeLfMDBrdk_7wWkhLmL8_EwBMeSp6Sb-vt4BvA1EqN2z2QjDId3d8at3Io_y-UrOzqp9Km'>Credit</a><br/>"
+      },
+      "start_date": {
+        "year": "1958"
+      },
+      "text": {
+        "headline": "The Perceptron",
+        "text": "<p>The perceptron invented by Frank Rosenblatt, was the first algorithm that could learn from data by adjusting weights automatically.Before the perceptron, AI was mostly symbolic (rules-based).The perceptron showed that a machine could learn decision boundaries by updating weights through training (a precursor to gradient-based methods).”</p>"
+      }
+    },
+
+    {
+      "media": {
+        "url": "https://editor.analyticsvidhya.com/uploads/18870backprop2.png",
+        "caption": "An illustration showing how backpropagation works",
+        "credit": "<a href=\"https://editor.analyticsvidhya.com/uploads/18870backprop2.png\">Credit</a>"
+      },
+      "start_date": {
+        "year": "1986"
+      },
+      "text": {
+        "headline": "Backpropagation",
+        "text": "David Rumelhart, Geoffrey Hinton, and Ronald Williams popularized the backpropagation algorithm for training multi-layer neural networks.It Enabled effective training of deep networks by efficiently minimizing error—pivotal for neural network resurgence."
+      }
+    },
+    {
+      "media": {
+        "url": "https://spotintelligence.com/wp-content/uploads/2024/05/support-vector-machine-svm.jpg",
+        "caption": "An illustration showing how Support Vector Machines work",
+        "credit": "<a href=\"https://spotintelligence.com/wp-content/uploads/2024/05/support-vector-machine-svm.jpg\">Credit</a>"
+      },
+      "start_date": {
+        "year": "1995"
+      },
+      "text": {
+        "headline": "Support Vector Machines (SVMs)",
+        "text": "Corinna Cortes and Vladimir Vapnik introduced SVMs, a powerful supervised learning algorithm based on margin maximization. It Became a robust and effective tool for classification and regression, widely used in the era of statistical machine learning."
+      }
+    },
+    {
+      "media": {
+        "url": "https://viso.ai/wp-content/uploads/2024/02/Deep-Belief-Network-Architecture.jpg",
+        "caption": "An illustration showing DBNs work",
+        "credit": "<a href=\"https://viso.ai/wp-content/uploads/2024/02/Deep-Belief-Network-Architecture.jpg\">Credit</a>"
+      },
+      "start_date": {
+        "year": "2006"
+      },
+      "text": {
+        "headline": "Deep Belief Networks (DBNs)",
+        "text": "Geoffrey Hinton and colleagues demonstrated unsupervised pretraining of deep belief networks, revitalizing deep learning. It Sparked renewed interest in deep networks and led to breakthroughs in representation learning."
+      }
+    },
+    {
+      "media": {
+        "url": "https://i0.wp.com/semiengineering.com/wp-content/uploads/nn3.png?ssl=1",
+        "caption": "An illustration showing GANs structure",
+        "credit": "<a href=\"https://i0.wp.com/semiengineering.com/wp-content/uploads/nn3.png?ssl=1\">Credit</a>"
+      },
+      "start_date": {
+        "year": "2014"
+      },
+      "text": {
+        "headline": "Generative Adversarial Networks (GANs)",
+        "text": "Ian Goodfellow introduced GANs, where two neural networks (generator & discriminator) compete to generate realistic data. Heavily increasing advancements in generative modeling, including photorealistic image generation and creative AI."
+      }
+    },
+    {
+      "media": {
+        "url": "https://i.guim.co.uk/img/media/6e698b71e16ecdeb5aca1d040b9c819a069f8065/469_955_2908_1744/master/2908.jpg?width=700&quality=85&auto=format&fit=max&s=29285b458f410ec9debcaf061b68e9f1",
+        "caption": "A photo showing Lee Sedol going up against the program Alpha Go",
+        "credit": "<a href=\"https://i.guim.co.uk/img/media/6e698b71e16ecdeb5aca1d040b9c819a069f8065/469_955_2908_1744/master/2908.jpg?width=700&quality=85&auto=format&fit=max&s=29285b458f410ec9debcaf061b68e9f1\">Credit</a>"
+      },
+      "start_date": {
+        "year": "2016"
+      },
+      "text": {
+        "headline": "AlphaGo",
+        "text": "DeepMind’s AlphaGo combined deep learning and reinforcement learning (plus tree search) to defeat Go champion Lee Sedol in a game of Go, demonstrating AI’s ability to master highly complex, strategic tasks."
+      }
+    },
+    {
+      "media": {
+        "url": "https://media.licdn.com/dms/image/v2/C4E12AQGStm_X3mjjoQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1647375616110?e=2147483647&v=beta&t=koVFFXrytOTdwQrHttMSFacPIznHrwM0qC0dP36SebY",
+        "caption": "",
+        "credit": "<a href=\"https://media.licdn.com/dms/image/v2/C4E12AQGStm_X3mjjoQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1647375616110?e=2147483647&v=beta&t=koVFFXrytOTdwQrHttMSFacPIznHrwM0qC0dP36SebY\">Credit</a>"
+      },
+      "start_date": {
+        "year": "2020"
+      },
+      "text": {
+        "headline": "Generative Pre-trained Transformer 3 or GPT-3",
+        "text": "OpenAI released GPT-3, a language model with 175 billion parameters capable of few-shot learning. Marking a leap in generative language models, powering versatile applications in text generation, coding, and conversational AI."
+      }
+    },
+    {
+      "media": {
+        "url": "https://media.licdn.com/dms/image/v2/D5612AQGkTA1hyAkL3w/article-cover_image-shrink_720_1280/B56ZeBnTOqHUAI-/0/1750226254015?e=2147483647&v=beta&t=a1dK99zOPiz0RyfqhEHC7hiMqiAH8nw5LgZa7016X6M",
+        "caption": "",
+        "credit": "<a href=\"https://media.licdn.com/dms/image/v2/D5612AQGkTA1hyAkL3w/article-cover_image-shrink_720_1280/B56ZeBnTOqHUAI-/0/1750226254015?e=2147483647&v=beta&t=a1dK99zOPiz0RyfqhEHC7hiMqiAH8nw5LgZa7016X6M\">Credit</a>"
+      },
+      "start_date": {
+        "year": "2024 "
+      },
+      "text": {
+        "headline": "Text-to-video (Sora)",
+        "text": "High-fidelity, minute-long video generation marks rapid progress in multimodal generative models."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2025"
+      },
+      "text": {
+        "headline": "References",
+        "text": "Stanford Encyclopedia of Philosophy. (2020). <i>The Turing test</i>. Stanford University. <a href='https://plato.stanford.edu/entries/turing-test/' target='_blank'>https://plato.stanford.edu/entries/turing-test/</a>\n\nIBM. (n.d.). <i>Early games: Arthur Samuel’s checkers</i>. IBM Archives. <a href='https://www.ibm.com/history/early-games' target='_blank'>https://www.ibm.com/history/early-games</a>\n\nCornell University. (2019, September 27). <i>Professor’s perceptron paved way for AI, 60 years too soon</i>. Cornell Chronicle. <a href='https://news.cornell.edu/stories/2019/09/professors-perceptron-paved-way-ai-60-years-too-soon' target='_blank'>https://news.cornell.edu/stories/2019/09/professors-perceptron-paved-way-ai-60-years-too-soon</a>\n\nBrilliant. (n.d.). <i>Backpropagation</i>. Brilliant.org. <a href='https://brilliant.org/wiki/backpropagation/' target='_blank'>https://brilliant.org/wiki/backpropagation/</a>\n\nIBM. (n.d.). <i>Support vector machine (SVM)</i>. IBM Think. <a href='https://www.ibm.com/think/topics/support-vector-machine' target='_blank'>https://www.ibm.com/think/topics/support-vector-machine</a>\n\nViso.ai. (2023). <i>Deep belief networks (DBNs)</i>. Viso Suite. <a href='https://viso.ai/deep-learning/deep-belief-networks/' target='_blank'>https://viso.ai/deep-learning/deep-belief-networks/</a>\n\nIBM. (n.d.). <i>Generative adversarial networks (GANs)</i>. IBM Think. <a href='https://www.ibm.com/think/topics/generative-adversarial-networks' target='_blank'>https://www.ibm.com/think/topics/generative-adversarial-networks</a>\n\nTechTarget. (2021, September). <i>GPT-3 (Generative Pre-trained Transformer 3)</i>. SearchEnterpriseAI. <a href='https://www.techtarget.com/searchenterpriseai/definition/GPT-3' target='_blank'>https://www.techtarget.com/searchenterpriseai/definition/GPT-3</a>\n\nGoogle Arts & Culture. (n.d.). <i>The story of AlphaGo</i>. Barbican Centre. <a href='https://artsandculture.google.com/story/the-story-of-alphago-barbican-centre/kQXBk0X1qEe5KA?hl=en' target='_blank'>https://artsandculture.google.com/story/the-story-of-alphago-barbican-centre/kQXBk0X1qEe5KA?hl=en</a>\n\nOpenAI. (2024, February 15). <i>Sora is here</i>. OpenAI. <a href='https://openai.com/index/sora-is-here/?utm_source=chatgpt.com' target='_blank'>https://openai.com/index/sora-is-here/?utm_source=chatgpt.com</a>"
+      }
+    }
+  ]
+}
